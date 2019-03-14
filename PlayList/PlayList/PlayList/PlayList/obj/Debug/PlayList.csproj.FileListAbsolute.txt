@@ -1,0 +1,32 @@
+C:\Users\Gaby\Documents\Hitts\Academy\C# POO\PlayList\PlayList\PlayList\bin\Debug\PlayList.exe.config
+C:\Users\Gaby\Documents\Hitts\Academy\C# POO\PlayList\PlayList\PlayList\bin\Debug\PlayList.exe
+C:\Users\Gaby\Documents\Hitts\Academy\C# POO\PlayList\PlayList\PlayList\bin\Debug\PlayList.pdb
+C:\Users\Gaby\Documents\Hitts\Academy\C# POO\PlayList\PlayList\PlayList\bin\Debug\Interop.WMPLib.dll
+C:\Users\Gaby\Documents\Hitts\Academy\C# POO\PlayList\PlayList\PlayList\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Gaby\Documents\Hitts\Academy\C# POO\PlayList\PlayList\PlayList\obj\Debug\PlayList.csprojAssemblyReference.cache
+C:\Users\Gaby\Documents\Hitts\Academy\C# POO\PlayList\PlayList\PlayList\obj\Debug\Interop.WMPLib.dll
+C:\Users\Gaby\Documents\Hitts\Academy\C# POO\PlayList\PlayList\PlayList\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Gaby\Documents\Hitts\Academy\C# POO\PlayList\PlayList\PlayList\obj\Debug\PlayList.csproj.ResolveComReference.cache
+C:\Users\Gaby\Documents\Hitts\Academy\C# POO\PlayList\PlayList\PlayList\obj\Debug\PlayList.Form1.resources
+C:\Users\Gaby\Documents\Hitts\Academy\C# POO\PlayList\PlayList\PlayList\obj\Debug\PlayList.Properties.Resources.resources
+C:\Users\Gaby\Documents\Hitts\Academy\C# POO\PlayList\PlayList\PlayList\obj\Debug\PlayList.csproj.GenerateResource.cache
+C:\Users\Gaby\Documents\Hitts\Academy\C# POO\PlayList\PlayList\PlayList\obj\Debug\PlayList.csproj.CoreCompileInputs.cache
+C:\Users\Gaby\Documents\Hitts\Academy\C# POO\PlayList\PlayList\PlayList\obj\Debug\PlayList.exe
+C:\Users\Gaby\Documents\Hitts\Academy\C# POO\PlayList\PlayList\PlayList\obj\Debug\PlayList.pdb
+E:\Hitss\C#\PlayList\PlayList\PlayList\PlayList\bin\Debug\PlayList.exe.config
+E:\Hitss\C#\PlayList\PlayList\PlayList\PlayList\bin\Debug\PlayList.exe
+E:\Hitss\C#\PlayList\PlayList\PlayList\PlayList\bin\Debug\PlayList.pdb
+E:\Hitss\C#\PlayList\PlayList\PlayList\PlayList\bin\Debug\Interop.WMPLib.dll
+E:\Hitss\C#\PlayList\PlayList\PlayList\PlayList\bin\Debug\AxInterop.WMPLib.dll
+E:\Hitss\C#\PlayList\PlayList\PlayList\PlayList\obj\Debug\PlayList.csprojAssemblyReference.cache
+E:\Hitss\C#\PlayList\PlayList\PlayList\PlayList\obj\Debug\Interop.WMPLib.dll
+E:\Hitss\C#\PlayList\PlayList\PlayList\PlayList\obj\Debug\AxInterop.WMPLib.dll
+E:\Hitss\C#\PlayList\PlayList\PlayList\PlayList\obj\Debug\PlayList.csproj.ResolveComReference.cache
+E:\Hitss\C#\PlayList\PlayList\PlayList\PlayList\obj\Debug\PlayList.Form1.resources
+E:\Hitss\C#\PlayList\PlayList\PlayList\PlayList\obj\Debug\PlayList.Properties.Resources.resources
+E:\Hitss\C#\PlayList\PlayList\PlayList\PlayList\obj\Debug\PlayList.csproj.GenerateResource.cache
+E:\Hitss\C#\PlayList\PlayList\PlayList\PlayList\obj\Debug\PlayList.csproj.CoreCompileInputs.cache
+E:\Hitss\C#\PlayList\PlayList\PlayList\PlayList\obj\Debug\PlayList.exe
+E:\Hitss\C#\PlayList\PlayList\PlayList\PlayList\obj\Debug\PlayList.pdb
+E:\Hitss\C#\PlayList\PlayList\PlayList\PlayList\bin\Debug\taglib-sharp.dll
+E:\Hitss\C#\PlayList\PlayList\PlayList\PlayList\obj\Debug\PlayList.csproj.CopyComplete
